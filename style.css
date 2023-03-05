@@ -50,7 +50,7 @@ body{
 }
 
 .main-cover{
-    background-image: url(images/Main_BG.png);
+    background-image: url(./Images/Main_BG.png);
     height: 92vh;
     width: 100%;
     background-color: rgba(0, 0, 0, 1);
